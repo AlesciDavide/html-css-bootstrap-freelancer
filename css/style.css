@@ -4,7 +4,16 @@
     background-color: aqua;
 }
 
+.colore-2{
+    background-color: azure;
+}
+
 .my-main-card{
     
     border: 2px solid red;
+}
+
+
+.my-margin-auto{
+    margin: 0 auto;
 }
