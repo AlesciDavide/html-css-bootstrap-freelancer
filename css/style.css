@@ -35,7 +35,11 @@ body{
     width: 50%;
 }
 
-.asd{
+.my_line_wid{
     width: 80%;
     opacity: 1;
+}
+
+.my_line_wid_button{
+    width: 20%;
 }
