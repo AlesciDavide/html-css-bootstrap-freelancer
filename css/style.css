@@ -7,12 +7,8 @@ body{
     background-color: #1abc9c;
 }
 
-.colore-2{
-    background-color: azure;
-}
-
-.colore-3{
-    background-color: rgb(231, 205, 255);
+.my_color_footer{
+    background-color: #3a546d;
 }
 
 .my_bg_header{
@@ -25,6 +21,10 @@ body{
 
 .my-margin-auto{
     margin: 0 auto;
+}
+
+.my_padding_0{
+    padding: 0;
 }
 
 .my_grow_0{
@@ -42,4 +42,15 @@ body{
 
 .my_line_wid_button{
     width: 20%;
+}
+
+.my_border_input{
+    border: none;
+    border-bottom: 1px solid rgb(158, 158, 158);
+}
+
+.asd{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: ;
 }
