@@ -1,7 +1,7 @@
 
 
 .colore{
-    background-color: aqua;
+    background-color: #1abc9c;
 }
 
 .colore-2{
@@ -22,6 +22,12 @@
 
 .my-margin-auto{
     margin: 0 auto;
-    justify-content: space-between;
 }
 
+.my_grow_0{
+    flex-grow: 0;
+}
+
+.my_img_avatar{
+    width: 50%;
+}
