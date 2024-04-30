@@ -49,8 +49,30 @@ body{
     border-bottom: 1px solid rgb(158, 158, 158);
 }
 
-.asd{
+.my_border_social{
     border: 1px solid white;
     border-radius: 50%;
-    padding: ;
+    padding: .8rem 1rem;
+}
+
+.my_border_social_min{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: .8rem .7rem;
+}
+
+.my_border_social_twitter{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: .8rem;
+}
+
+.my_border_social_linkedin{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: .8rem .9rem;
+}
+
+.my_color_text{
+    color: #1abc9c;
 }
